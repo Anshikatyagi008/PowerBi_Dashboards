@@ -15,9 +15,9 @@ Welcome to my dashboard gallery! This repository showcases interactive data visu
 
 | Project Category | Project Description & Core Insights | Sneak Peek (Click to Open) |
 | :--- | :--- | :--- |
-| **🛒 E-Commerce Analysis** | **Objective:** Analyzed 100K+ orders to find drop-offs in the sales funnel.<br><br>💡 **Key Insight:** Found a 14% cart abandonment rate caused by shipping delays in the Midwest region. | ![E-com Dashboard]() |
+| **🛒 E-Commerce Analysis** | **Objective:** Analyzed 100K+ orders to find drop-offs in the sales funnel.<br><br>💡 **Key Insight:** Found a 14% cart abandonment rate caused by shipping delays in the Midwest region. | ![E-com Dashboard](https://github.com/Anshikatyagi008/PowerBi_Dashboards/tree/main/Dashboards/E-commercetrend) |
 | **👥 Customer Segmentation** | **Objective:** Built an RFM model to group customers by value.<br><br>💡 **Key Insight:** Identified a "High-Value at Risk" segment contributing to 30% of total revenue but dropping off in frequency. | ![Customer Dashboard]() |
-| **📈 Sales Performance** | **Objective:** Tracked year-over-year sales growth across multiple storefronts.<br><br>💡 **Key Insight:** Q3 promotions boosted transaction volume by 22% but reduced profit margins due to aggressive discounting. | ![Sales Dashboard]() |
+| **📈 Sales Performance** | **Objective:** Tracked year-over-year sales growth across multiple storefronts.<br><br>💡 **Key Insight:** Q3 promotions boosted transaction volume by 22% but reduced profit margins due to aggressive discounting. | ![Sales Dashboard](https://github.com/Anshikatyagi008/PowerBi_Dashboards/tree/main/Dashboards/Sales_Analysis) |
 
 ---
 
